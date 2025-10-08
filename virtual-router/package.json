@@ -1,0 +1,15 @@
+{
+  "name": "virtual-secure-router-temp",
+  "version": "1.0.0",
+  "description": "Temporary Virtual Secure Router for Live Server",
+  "main": "virtual-router.js",
+  "scripts": {
+    "start": "node virtual-router.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.5.0",
+    "portfinder": "^1.0.32",
+    "open": "^8.4.2"
+  }
+}
